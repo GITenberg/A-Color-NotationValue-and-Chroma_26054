@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'ND'
 - !lcsh 'Color'
+- GITenberg
 title: "A Color Notation\r\nA measured color system, based on the three qualities\
   \ Hue, Value and Chroma"
 url: http://www.gutenberg.org/ebooks/26054
